@@ -1,0 +1,9 @@
+{
+    "name": "tecnico/atividade",
+    "autoload": {
+        "psr-4": {
+            "Tecnico\\Atividade\\": "src/"
+        }
+    },
+    "require": {}
+}
