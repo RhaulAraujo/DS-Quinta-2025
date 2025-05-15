@@ -1,0 +1,15 @@
+{
+    "name": "tecnico/etec-jk",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "rhaul",
+            "email": "rhaul.araujo@etec.sp.gov.br"
+        }
+    ],
+    "require": {}
+}
